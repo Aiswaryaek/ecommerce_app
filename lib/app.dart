@@ -1,5 +1,4 @@
 import 'package:ecommerce_app/features/category.dart';
-import 'package:ecommerce_app/features/category_page.dart';
 import 'package:flutter/material.dart';
 class FlutterBasicApp extends StatefulWidget {
   const FlutterBasicApp({Key? key}) : super(key: key);
