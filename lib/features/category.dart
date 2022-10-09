@@ -1,10 +1,10 @@
 import 'package:ecommerce_app/core/ui_state.dart';
-import 'package:ecommerce_app/features/widgets/default_app_bar.dart';
 import 'package:ecommerce_app/providers/category_providers.dart';
 import 'package:ecommerce_app/providers/product_providers.dart';
 import 'package:ecommerce_app/providers/sub_category_providers.dart';
 import 'package:ecommerce_app/repositories/category_repositories.dart';
 import 'package:ecommerce_app/styles/colors.dart';
+import 'package:ecommerce_app/widgets/default_app_bar.dart';
 import 'package:provider/provider.dart';
 import 'package:ecommerce_app/styles/textstyles.dart';
 import 'package:flutter/material.dart';
